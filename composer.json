@@ -1,4 +1,11 @@
 {
+    "name": "asmaa-gamal/easy-mvc",
+    "description": "easyMVC is a lightweight PHP MVC framework for building scalable web applications. With intuitive routing and robust database integration. easyMVC simplifies development.",
+    "require": {
+        "php": ">=7.2",
+        "another-vendor/package": "1.*"
+    },
+
     "autoload": {
         "psr-4": {
             "MVC\\": "app"
